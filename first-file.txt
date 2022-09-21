@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 it's karl in this repo yuh
+=======
+it's karl and this is the secondary branch yuh
+lemme commit
+>>>>>>> b7e9c0fcf3a8be51ef8c910b61ac5f5d8f5aedc2
